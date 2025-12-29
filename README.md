@@ -9,7 +9,6 @@ This app is designed to efficiently manage hostel operations such as student rec
 The **Hostel Manager App** is an Android-based mobile application developed using **React Native** for the frontend and **JavaScript backend** with **MongoDB** as the database.  
 The application is built and tested using **VS Code** and **Android Studio**, and exported as an **APK** for Android devices.
 
-
 ## 🚀 Features
 
 - 🔐 User Authentication (Login & Signup)
@@ -87,14 +86,3 @@ HostelManagerApp/
 │── database/
 │── android/
 │── README.md
-👩‍💻 Developer
-Sana Batool
-
-Web Developer
-
-Mobile App Developer
-
-React Native | JavaScript | MongoDB
-
-⭐ Support
-If you like this project, please give it a ⭐ on GitHub it really helps!
